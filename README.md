@@ -8,6 +8,7 @@ The dataset used is the Lombard Grid (https://spandh.dcs.shef.ac.uk//avlombard/)
 Some limitations of the model are also limitations placed on humans while lip reading, for example, there exist some phonemes that cannot be distinguished from each other from just visual input, such as:
   - 'p' and 'b'
   - 'ch' and 'sh'
+
 There exist some innate limitations on the model that do not apply to humans while lip reading, such as an awareness of context, or body language.
 
 More work is to be done, but the primary goal is to train the model to recognize sounds / phonemes rather than words.
